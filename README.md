@@ -17,6 +17,6 @@ solve_A_star(heuristics)
 maxNodes(n)
 
 # NOTE: 
-This was written without reference to A* search in 2019 and does not follow its exact format. Self interpreted with a similiar decision and heuristic idea but not optimized. In April of 2020 I built an A* search path-finding website that does conform to optimized A* Search concepts. 
+This was written without reference to A* search in 2019 and does not follow its exact format. Self interpreted with a similiar decision and heuristic approach but not optimized. In April of 2020 I built an A* search path-finding website that does conform to optimized A* Search concepts. 
 
 Here is the Link: https://ai-path-visualizer.web.app
